@@ -74,7 +74,7 @@ public class Problema1 {
         promedioes = sumaes / calculo;
 
         System.out.printf("Listado de jugadores\n%sListado de edades\n%s"
-                + "Promedio de edades:\t%.2f\nPromedio de estaturas:\t%.2f",
+                + "Promedio de edades:\t%.2f\nPromedio de estaturas:\t%.2f\n",
                 cadenafinal,
                 edades,
                 promedioed,
